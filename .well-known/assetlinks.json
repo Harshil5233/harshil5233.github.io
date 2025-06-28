@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.digipin.bharat",
+      "sha256_cert_fingerprints": [
+        "D4:C6:2A:D2:0A:19:87:DA:AC:75:18:5F:D1:73:29:09:BE:E3:48:D6:97:A7:C4:D1:34:1B:B2:FE:66:88:8C:73"
+      ]
+    }
+  }
+]
